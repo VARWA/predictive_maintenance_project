@@ -15,8 +15,8 @@
 
 ### 🔧 1. Клонировать репозиторий
 ```bash
-git clone <ссылка на репозиторий>
-cd <название_папки>
+git clone https://github.com/VARWA/predictive_maintenance_project
+cd predictive_maintenance_project
 ```
 ### 📦 2. Установить зависимости
 ```bash
