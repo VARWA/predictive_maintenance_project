@@ -18,11 +18,16 @@
 git clone https://github.com/VARWA/predictive_maintenance_project
 cd predictive_maintenance_project
 ```
-### 📦 2. Установить зависимости
+### 🧪 2. Создать и активировать виртуальное окружение (рекомендуется)
+```
+python3 -m venv venv
+source venv/bin/activate
+```
+### 📦 3. Установить зависимости
 ```bash
 pip install -r requirements.txt
 ```
-### ▶️ 3. Запустить приложение
+### ▶️ 4. Запустить приложение
 ```bash
 streamlit run app.py
 ```
